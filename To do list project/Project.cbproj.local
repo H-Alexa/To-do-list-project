@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/11 01:05:38.000.901,=E:\Project_RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/11 01:05:38.000.780,=E:\Project_RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/04/11 01:11:53.000.673,E:\1. Files\c++\To do list project\Project.cbproj=E:\Project_RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/04/11 01:11:53.000.641,E:\1. Files\c++\To do list project\ProjectPCH1.h=E:\Project_RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/11 01:11:53.000.614,E:\1. Files\c++\To do list project\Unit1.h=E:\Project_RAD\Unit1.h</Transaction>
+    <Transaction>2023/04/11 01:11:53.000.614,E:\1. Files\c++\To do list project\Unit1.fmx=E:\Project_RAD\Unit1.fmx</Transaction>
+    <Transaction>2023/04/11 01:11:53.000.614,E:\1. Files\c++\To do list project\Unit1.cpp=E:\Project_RAD\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

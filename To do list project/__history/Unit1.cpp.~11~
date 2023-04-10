@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#include <fmx.h>
+#include<string.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.fmx"
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+	: TForm(Owner)
+{
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::addTask(TObject *Sender)
+{
+	String newTask = taskAdd->Text;
+	bool ok= false;
+	char c = ' ';
+	char d = '\n';
+	for(int i = 0;i < newTask.Length();i++)
+	{
+		if(newTask[i]!=c&&newTask[i]!=d) ok=true;
+	}
+	if(newTask!=""&&ok)
+	{
+		taskList->Items->Add(newTask);
+    }
+}
+//---------------------------------------------------------------------------
