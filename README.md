@@ -6,6 +6,8 @@ This is a simple to do list project that allows you to add new tasks and delete 
 Detailed walkthrough video given at the last of the readme doc.
 
 Start page:
+
+
 ![ss1](https://user-images.githubusercontent.com/54031572/231008015-3287924e-eb51-4627-b63b-25098781a9d7.jpg)
 
 ![ss2](https://user-images.githubusercontent.com/54031572/231008064-e7499a71-6500-490f-a642-bad1b5df3dc9.jpg)
