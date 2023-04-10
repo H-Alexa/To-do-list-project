@@ -25,7 +25,11 @@ This project was done after watching this video( https://youtu.be/FxQTXyR4mjs ).
 
 https://user-images.githubusercontent.com/54031572/231010360-11ce7f2f-0a1c-4321-b356-4592da3fa78c.mp4
 
-Sorry for the poor quality, for uploading in github the video needed to be compressed to reach size <10 MB. I have just used .Trim() method to check whether there are other characters apart from spaces or newlines in input or not. If present, then has taken the input. Otherwise discarded.
+Sorry for the poor quality, for uploading in github the video needed to be compressed to reach size <10 MB. A bit better resolution (still blurry) :
+https://youtu.be/3OpCBgyeuq8
+
+I have just used .Trim() method to check whether there are other characters apart from spaces or newlines in input or not. If present, then has taken the input. Otherwise discarded.
+![codesnippet](https://user-images.githubusercontent.com/54031572/231011634-091b0961-1996-4d50-95e2-679d60b3dad8.jpg)
 
 
 
